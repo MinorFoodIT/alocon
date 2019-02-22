@@ -1,0 +1,9 @@
+namespace AlohaFOHLib
+{
+  public enum ITEM_AVAILABILITY_TYPE
+  {
+    AVAILABLE_NO_LIMIT,
+    AVAILABLE_WITH_LIMIT,
+    NOT_AVAILABLE,
+  }
+}
